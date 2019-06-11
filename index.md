@@ -49,8 +49,8 @@ This project has benefitted from several partnerships and collaborations.
 
 # Links
 
-- **[BRIDGE tools live on Galaxy EU](https://cheminformatics.usegalaxy.eu/)** :rocket::star:
-- **[BRIDGE tools and source code](https://github.com/galaxycomputationalchemistry/galaxy-tools-compchem)**
+- [BRIDGE tools live on Galaxy EU](https://cheminformatics.usegalaxy.eu/)
+- [BRIDGE tools and source code](https://github.com/galaxycomputationalchemistry/galaxy-tools-compchem)
 - [Galaxy project](https://galaxyproject.org/)
 - [Galaxy EU](https://cheminformatics.usegalaxy.eu/)
 - [ilifu](http://www.ilifu.ac.za/)
