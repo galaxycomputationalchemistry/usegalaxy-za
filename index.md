@@ -23,7 +23,7 @@ Academic users are most welcome, especially attendees of the BRIDGE workshop, us
 - Statistics reflecting tool usage and time on the cluster will be collected. This data will be used to ensure fair resource sharing and anonymised for reporting to funders on usage statistics of tools. 
 
 # Governance & reporting
-The key individual at present is @chrisbarnettster who has raised the funding for resources on ilifu. 
+The key contact at present is @chrisbarnettster who has raised the funding for resources on ilifu. 
 Governance needs to be formally set up and should include individuals from eResearch UCT, the Scientific Computing Research Unit, the Galaxy Computational Chemistry Team,  SANBI and ilifu. 
 
 # Funders & Timeline
@@ -38,8 +38,8 @@ This project has benefitted from several partnerships and collaborations.
 - University of the Western Cape
   - Prof Christoffels and Peter van Heusden
 - University of Freiburg
-  - Special thanks to  [Björn Grüning](https://github.com/bgruening)
-   - Simon Bray
+  - Special thanks to [Björn Grüning](https://github.com/bgruening)
+  - Simon Bray
 - The ilifu team
 
 
