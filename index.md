@@ -16,7 +16,7 @@ Academic users are most welcome, especially attendees of the BRIDGE workshop, us
 (quota subject to change)
 - Registered users will receive 1Gb of data. (Note registration will require approval)
 - Trusted users will receive 20Gb and may request additional data. 
-- Unregistered users will receive 1 byte of data.
+- Unregistered users will receive 500Mb of data.
 
 ### Privacy 
 - Your data is yours and will be kept private. Anything you choose to share publicly will be made public. 
